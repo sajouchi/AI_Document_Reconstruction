@@ -6,7 +6,7 @@ An experimental project that reconstructs scanned document images into editable 
 
 > 🚧 **Project Status:** Early MVP
 >
-> The project is under active development. Currently, only **Microsoft Word (.docx)** export is supported. **PDF export** and additional reconstruction capabilities are planned for future releases.
+> The project is under active development. Currently, only **Microsoft Word (.docx)** export is supported. **PDF export** and additional reconstruction capabilities are planned for future releases. Anything that can break will break.
 
 ---
 
