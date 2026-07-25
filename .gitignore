@@ -1,0 +1,8 @@
+.env
+.vscode/
+images/
+project_notes/
+__pycache__/
+env1/
+langgraph_states.txt
+database.db
