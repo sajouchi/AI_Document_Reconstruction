@@ -15,7 +15,7 @@ An experimental project that reconstructs scanned document images into editable 
 The following LangGraph workflow represents the current agent orchestration pipeline.
 
 <p align="center">
-  <img src="workflow.png" alt="LangGraph Workflow" width="450">
+  <img src="workflow.png" alt="LangGraph Workflow" width="30">
 </p>
 
 ---
